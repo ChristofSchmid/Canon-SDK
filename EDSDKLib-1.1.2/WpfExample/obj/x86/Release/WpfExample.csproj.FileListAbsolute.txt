@@ -1,0 +1,14 @@
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\bin\Release\WpfExample.exe
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\bin\Release\WpfExample.pdb
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\bin\Release\EDSDKLib.dll
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\bin\Release\EDSDKLib.pdb
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\bin\Release\EDSDKLib.xml
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.csprojResolveAssemblyReference.cache
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\MainWindow.g.cs
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\App.g.cs
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample_MarkupCompile.cache
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample_MarkupCompile.lref
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\MainWindow.baml
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.g.resources
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.exe
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WpfExample\obj\x86\Release\WpfExample.pdb

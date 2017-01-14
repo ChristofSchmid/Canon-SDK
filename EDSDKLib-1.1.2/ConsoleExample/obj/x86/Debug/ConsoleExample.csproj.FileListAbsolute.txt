@@ -1,0 +1,7 @@
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\ConsoleExample.exe
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\ConsoleExample.pdb
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\EDSDKLib.dll
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\ConsoleExample\bin\Debug\EDSDKLib.pdb
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.csprojResolveAssemblyReference.cache
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.exe
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\ConsoleExample\obj\x86\Debug\ConsoleExample.pdb

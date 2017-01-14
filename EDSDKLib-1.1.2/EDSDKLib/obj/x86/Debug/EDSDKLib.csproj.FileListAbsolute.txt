@@ -1,0 +1,14 @@
+C:\Users\Ben\OneDrive\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\bin\Debug\EDSDKLib.dll
+C:\Users\Ben\OneDrive\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\bin\Debug\EDSDKLib.pdb
+C:\Users\Ben\OneDrive\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojResolveAssemblyReference.cache
+C:\Users\Ben\OneDrive\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+C:\Users\Ben\OneDrive\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\bin\Debug\EDSDKLib.dll
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\bin\Debug\EDSDKLib.pdb
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojResolveAssemblyReference.cache
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb
+C:\Users\chschmid\Desktop\Canon\EDSDKLib-1.1.2\EDSDKLib\bin\Debug\EDSDKLib.dll
+C:\Users\chschmid\Desktop\Canon\EDSDKLib-1.1.2\EDSDKLib\bin\Debug\EDSDKLib.pdb
+C:\Users\chschmid\Desktop\Canon\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+C:\Users\chschmid\Desktop\Canon\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb

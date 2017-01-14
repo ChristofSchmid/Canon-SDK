@@ -1,0 +1,9 @@
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\WinFormsExample.exe
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\WinFormsExample.pdb
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\EDSDKLib.dll
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\bin\Debug\EDSDKLib.pdb
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csprojResolveAssemblyReference.cache
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.MainForm.resources
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.csproj.GenerateResource.Cache
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.exe
+C:\Users\chschmid\OneDrive\SSL\SSL_Development\Camera & Gimbal\02 Camera\Info manufacturer & models\Canon\EDSDKLib-1.1.2\WinFormsExample\obj\x86\Debug\WinFormsExample.pdb
