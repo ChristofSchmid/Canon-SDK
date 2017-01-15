@@ -56,3 +56,16 @@ D:\Dokumente\Cameras\Canon\Canon SDK Tests\EDSDKLib-1.1.2\WpfExample\obj\x86\Deb
 D:\Dokumente\Cameras\Canon\Canon SDK Tests\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample_MarkupCompile.lref
 D:\Dokumente\Cameras\Canon\Canon SDK Tests\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\MainWindow.baml
 D:\Dokumente\Cameras\Canon\Canon SDK Tests\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.g.resources
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.exe
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.pdb
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\bin\Debug\WpfExample.exe
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\bin\Debug\WpfExample.pdb
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\bin\Debug\EDSDKLib.dll
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\bin\Debug\EDSDKLib.pdb
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.csprojResolveAssemblyReference.cache
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\MainWindow.g.cs
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\App.g.cs
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample_MarkupCompile.cache
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample_MarkupCompile.lref
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\MainWindow.baml
+D:\GitHub\Canon SDK\EDSDKLib-1.1.2\WpfExample\obj\x86\Debug\WpfExample.g.resources

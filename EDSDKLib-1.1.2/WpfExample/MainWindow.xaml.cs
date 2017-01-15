@@ -580,7 +580,7 @@ namespace WpfExample
 
             FocusPosition = 0;
             CurrentFocusPosition = 0;
-            //SetFocusDistance400();
+            SetFocusDistance400();
 
             //SetFocusDistance(400);
             //SetFocusDistance(200);
@@ -598,8 +598,8 @@ namespace WpfExample
             long milliExec = 4000; //Default
 
             int loopCount = 1;     //TickCounter
-            int ThreeTicks = 13;
-            int OneTicks = 31;
+            int ThreeTicks = 18;
+            int OneTicks = 32;
             int pass = 0;
 
 
@@ -615,7 +615,7 @@ namespace WpfExample
             nCount = 0;
             while (nCount < OneTicks)
             {
-                MainCamera.SendCommand(CameraCommand.DriveLensEvf, (int)DriveLens.Near1);
+                MainCamera.SendCommand(CameraCommand.DriveLensEvf, (int)DriveLens.Far1);
                 Thread.Sleep(100);
                 nCount++;
                 Console.WriteLine("Far1 Ticks: " + nCount.ToString() + " of Total: " + OneTicks.ToString());
@@ -655,7 +655,7 @@ namespace WpfExample
         private void SetFocusDistanceTimer(int FocusDistance)
         {
             aTimer.Stop();
-            aTimer.Interval = 70;
+            aTimer.Interval = 50;
             aTimer.Start();
 
             FocusPosition = CurrentFocusPosition;
@@ -727,7 +727,7 @@ namespace WpfExample
         {
 
             aTimer.Stop();
-            aTimer.Interval = 70;
+            aTimer.Interval = 35;
             aTimer.Start();
 
             FocusPosition = CurrentFocusPosition;
